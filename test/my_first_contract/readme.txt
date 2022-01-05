@@ -69,3 +69,6 @@ junod  tx wasm execute  juno1yrzxr3s4elxql3e7l4vf2cywd4rcyntl27rc63mqxa7a3xwtker
 junod  query wasm contract-state smart  juno1yrzxr3s4elxql3e7l4vf2cywd4rcyntl27rc63mqxa7a3xwtkerqzrj0sz  '{"get_count":{}}'
 data:
   count: 100
+----------------------------------------------
+
+https://blueprints.juno.giansalex.dev/#/contracts/juno1yrzxr3s4elxql3e7l4vf2cywd4rcyntl27rc63mqxa7a3xwtkerqzrj0sz
